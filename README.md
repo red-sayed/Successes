@@ -1,2 +1,2 @@
-# Successes
+# 📑 Successes
 My Diplomas/Certificates/etc.
