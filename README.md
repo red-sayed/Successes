@@ -1,5 +1,5 @@
 # 📑 Successes
-My Diplomas/Certificates/etc.
+Here you can find the list of my Diplomas/Certificates/etc. Only tech ones.
 
 ## 📜 Degrees
 
